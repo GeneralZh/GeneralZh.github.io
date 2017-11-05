@@ -9,11 +9,11 @@ main:
   - title: "Tags"
     url: /tags
 
-  - title: "Portfolio"
-    url: /portfolio
+  #- title: "Portfolio"
+  #  url: /portfolio
 
-  - title: "Guestbook"
-    url: /guestbook
+  #- title: "Guestbook"
+    #url: /guestbook
 
   - title: "About"
     url: /about
