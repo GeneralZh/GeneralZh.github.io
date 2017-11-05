@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Joe's Blog"
+title                    : "generalz Blog"
 title_separator          : "-"
-name                     : "hijiangtao"
-description              : "All I'm saying is inside, I had the element of surprise."
-url                      : # "https://hijiangtao.github.io"
+name                     : "generalz"
+description              : "知之真切笃实处即是行，行之明觉精察处即是知。"
+url                      : # "https://generalzh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hijiangtao/hijiangtao.github.io"
+repository               : "generalzh/generalzh.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -21,7 +21,7 @@ comments:
   provider               : "disqus"
   # duoshuo                : datablog
   disqus:
-    shortname            : hijiangtao
+    shortname            : generalz
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,16 +78,16 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : "UA-48887175-1"
+    tracking_id          : #"UA-48887175-1"
 
 
 # Site Author
 author:
-  name             : "hijiangtao"
+  name             : "generalzh"
   avatar           : "bio-photo.jpg"
-  bio              : "VIS and FE."
-  location         : "Beijing, China"
-  email            : "hijiangtao@gmail.com"
+  bio              : "PhD Xi'An Jiaotong University"
+  location         : "Xi'An, China"
+  email            : "generalz@sina.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,23 +95,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hijiangtao
+  github           : generalzh
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : hijiangtao
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : hijiangtao
+  twitter          : blakelee
   vine             :
-  weibo            : hijiangtao
+  weibo            : generalz
   xing             :
   youtube          :
-  cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"
+  cv               : #"/assets/doc/TaoJiang-ResumeCN.pdf"
 
 
 # Reading Files
