@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Posts"
+  - title: "博文"
     url: /posts
 
-  - title: "Categories"
+  - title: "分类"
     url: /categories
 
-  - title: "Tags"
+  - title: "标签"
     url: /tags
 
   #- title: "Portfolio"
@@ -15,5 +15,5 @@ main:
   #- title: "Guestbook"
     #url: /guestbook
 
-  - title: "About"
+  - title: "关于我"
     url: /about
