@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /posts
-title: "Posts"
+title: "博文"
 ---
 
 {% include base_path %}
