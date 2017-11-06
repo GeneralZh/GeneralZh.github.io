@@ -4,9 +4,9 @@ layout: post
 title: GitHub blog  第一个
 #thread: 116
 categories: Documents
-tags: [github]
+tags: [github,]
 excerpt: 
 ---
-### 测试GitHubBlog
- 安装测试Blog for Github
+### 配置成功GitHub的博客
+ 请注意，这是一个测试内容，这是一个测试内容。
 
