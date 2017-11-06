@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "generalz Blog"
+title                    : "Generalz's Blog"
 title_separator          : "-"
-name                     : "generalz"
+name                     : "Generalz"
 description              : "知之真切笃实处即是行，行之明觉精察处即是知。"
 url                      : # "https://generalzh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
