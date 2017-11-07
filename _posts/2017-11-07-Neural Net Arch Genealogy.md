@@ -9,7 +9,7 @@ excerpt:
 ---
 # Deep Architecture Genealogy
 There are so many new models and architectures. If you find something interesting and worth paying attention to, please send us a pull requests (PR) and write issues.
-`README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.
+
 ## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 
