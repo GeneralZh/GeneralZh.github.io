@@ -7,9 +7,10 @@ categories: Documents
 tags: [深度学习,CNN,RNN]
 excerpt: 
 ---
+
 # Deep Architecture Genealogy
 There are so many new models and architectures. If you find something interesting and worth paying attention to, please send us a pull requests (PR) and write issues.
-
+[原文地址](https:\//github.com\/hunkim/deep_architecture_genealogy )
 ## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 
