@@ -12,7 +12,7 @@ There are so many new models and architectures. If you find something interestin
 `README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.
 ## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
-![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
+
 ## Text Version
 This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
 * Memory Networks
