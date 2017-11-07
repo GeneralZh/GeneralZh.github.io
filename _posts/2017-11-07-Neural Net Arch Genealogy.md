@@ -10,12 +10,13 @@ excerpt:
 
 # Deep Architecture Genealogy
 There are so many new models and architectures. If you find something interesting and worth paying attention to, please send us a pull requests (PR) and write issues.
+
 [原文地址](https:\//github.com\/hunkim/deep_architecture_genealogy )
 ## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 
 ## Text Version
-This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
+
 * Memory Networks
   * Neural Programming
     * [Neural Turing Machine,'14.10](https://arxiv.org/pdf/1410.5401.pdf)
