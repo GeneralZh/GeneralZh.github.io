@@ -103,7 +103,7 @@ author:
   linkedin         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : blakelee
@@ -112,7 +112,8 @@ author:
   xing             :
   youtube          :
   jianshu          : http://www.jianshu.com/u/8c2eba89a454
-  cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"
+  cv               : #"/assets/doc/TaoJiang-ResumeCN.pdf"
+  jianshu               : http://www.jianshu.com/u/8c2eba89a454
 
 
 # Reading Files
