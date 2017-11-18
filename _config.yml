@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : http://www.linkedin.com/in/%E5%BB%BA%E5%BC%BA-%E8%B5%B5-45734614b/
+  linkedin         : %E5%BB%BA%E5%BC%BA-%E8%B5%B5-45734614b/
   pinterest        :
   soundcloud       :
   stackoverflow    : #http://stackoverflow.com/users/123456/username
@@ -109,12 +109,10 @@ author:
   twitter          : blakelee
   vine             :
   weibo            : generalz
-  xing             : http://www.jianshu.com/u/8c2eba89a454
+  xing             : h#ttp://www.jianshu.com/u/8c2eba89a454
   youtube          :
   jianshu          : http://www.jianshu.com/u/8c2eba89a454
-  cv               : #"/assets/doc/TaoJiang-ResumeCN.pdf"
-  jianshu          : http://www.jianshu.com/u/8c2eba89a454
-
+  cv               : #"/assets/doc/TaoJiang-ResumeCN.pdf
 
 # Reading Files
 include:
