@@ -94,6 +94,9 @@
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
       {% endif %}
+      {% if author.jianshu %}
+        <li><a href="https://http://www.jianshu.com/u/{{ author.jianshu }}"><i class="fa fa-fw fa-jianshu" aria-hidden="true"></i>简书</a></li>
+      {% endif %}      
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
