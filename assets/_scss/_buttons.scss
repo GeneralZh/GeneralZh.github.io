@@ -123,6 +123,8 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
+  (zhihu, $linkedin-color);
+  (weibo, $google-plus-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
